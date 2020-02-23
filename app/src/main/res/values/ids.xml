@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="todo_list_container" type="id"/>
+    <!--    elements in todolist page-->
+    <item name="todo_list_recycler_view" type="id"/>
+    <item name="todo_list_item_title" type="id"/>
+    <item name="todo_list_item_date" type="id"/>
+    <!--    elements in todo detail page-->
+    <item name="todo_detail_item_title" type="id"/>
+    <item name="todo_detail_item_date" type="id"/>
+    <item name="todo_detail_item_desc" type="id"/>
+    <!--    button for adding a todo item-->
+    <item name="btn_add_todo_item" type="id"/>
+    <!--    elements in todo add/edit page-->
+    <item name="todo_add_edit_headline" type="id"></item>
+    <item name="todo_add_edit_title" type="id"></item>
+    <item name="todo_add_edit_date_text" type="id"></item>
+    <item name="todo_add_edit_date_edit_btn" type="id"></item>
+    <item name="todo_add_edit_time" type="id"></item>
+    <item name="todo_add_edit_confirm_btn" type="id"></item>
+    <item name="todo_add_edit_cancel_btn" type="id"></item>
+</resources>
